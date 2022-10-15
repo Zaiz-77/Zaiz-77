@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zaiz-77
-- 👀 I’m interested in ResNet, Java, Python
+- 👀 I’m interested in Java, Python, CNN, ResNet
 - 🌱 I’m currently learning object-detection
 - 💞️ I’m looking to collaborate on object-detection
 - 📫 How to reach me zaizwk@gmail.com
