@@ -1,7 +1,7 @@
 - 👋 Hi, I’m zaizwk
-- 👀 I’m interested in computer vision, machine learning and application development
-- 🌱 I’m currently learning object-detection
-- 💞️ I’m looking to collaborate on object-detection
+- 👀 I’m interested in data mining and representation learning
+- 🌱 I’m currently learning data mining and its application
+- 💞️ I’m looking to collaborate on representation learning
 - 📫 How to reach me zaizwk@gmail.com zaizwk@mail.ustc.edu.cn
 
 <!---
