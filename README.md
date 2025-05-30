@@ -1,7 +1,7 @@
 - 👋 Hi, I’m zaizwk
-- 👀 I’m interested in data mining and representation learning
-- 🌱 I’m currently learning data mining and its application
-- 💞️ I’m looking to collaborate on representation learning
+- 👀 I’m interested in LLM and Agengt Engineering
+- 🌱 I’m currently learning MultiAgents Frameworks
+- 💞️ I’m looking to collaborate on LLM and LLM Application
 - 📫 How to reach me zaizwk@gmail.com zaizwk@mail.ustc.edu.cn
 
 <!---
