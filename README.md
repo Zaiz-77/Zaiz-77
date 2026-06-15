@@ -1,10 +1,5 @@
-- 👋 Hi, I’m zaizwk
-- 👀 I’m interested in LLM and Agengt Engineering
-- 🌱 I’m currently learning MultiAgents Frameworks
-- 💞️ I’m looking to collaborate on LLM and LLM Application
-- 📫 How to reach me zaizwk@gmail.com zaizwk@mail.ustc.edu.cn
-
-<!---
-Zaiz-77/Zaiz-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Zaiz.
+- 🧠 I’m interested in LLM applications, self-evolving agents, and post-training.
+- 🌱 Currently exploring agent skill evolution, SFT, GRPO, and practical agent systems.
+- 🛠️ I enjoy turning messy research ideas into working tools.
+- 📫 Reach me at zaizwk@gmail.com or zaizwk@mail.ustc.edu.cn.
